@@ -1,2 +1,4 @@
 # hello-github
-My fisrt GitHub repo
+My first GitHub repo
+Created by Ainul 
+Update README
